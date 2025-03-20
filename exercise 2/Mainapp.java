@@ -1,3 +1,7 @@
+//Employee salary management program
+//prompts user to enter their name and salary the creates employee object
+//Done by Joy Ashley
+
 import java.util.Scanner;
 
 //main class
