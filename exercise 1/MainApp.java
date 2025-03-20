@@ -1,3 +1,7 @@
+//student information program
+//it prompts a user to enter their name and marks, then creates a student object
+//Done by Joy Ashley
+
 import java.util.Scanner;
 
 public class MainApp {
